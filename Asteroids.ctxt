@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Asteroids()
+comment1.params=x\ y\ size\ p
+comment1.target=Asteroids(double,\ double,\ int,\ sacco.Picture)
+comment2.params=
+comment2.target=sacco.Picture\ getPicture()
+comment3.params=c
+comment3.target=void\ paintSprite(sacco.Canvas)
+numComments=4

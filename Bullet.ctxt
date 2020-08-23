@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ direction
+comment0.target=Bullet(double,\ double,\ int)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=boolean\ isTooOld()
+comment3.params=c
+comment3.target=void\ paintSprite(sacco.Canvas)
+numComments=4
